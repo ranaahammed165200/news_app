@@ -92,7 +92,7 @@ class _SignInState extends State<SignIn> {
                               borderRadius: BorderRadius.circular(10))),
                     ),
                     const SizedBox(
-                      height: 16,
+                      height: 20,
                     ),
                     Container(
                       alignment: Alignment.centerRight,
